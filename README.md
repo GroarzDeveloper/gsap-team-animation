@@ -1,1 +1,1 @@
-hi
+<img src="assets/demo.png" />
